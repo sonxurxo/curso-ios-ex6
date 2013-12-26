@@ -201,7 +201,8 @@
 			children = (
 				BA6508AD186B08210074D87A /* AFNetworking */,
 			);
-			path = AFNetworking;
+			name = AFNetworking;
+			path = Ex6/AFNetworking;
 			sourceTree = SOURCE_ROOT;
 		};
 		BA6508AD186B08210074D87A /* AFNetworking */ = {
@@ -550,6 +551,7 @@
 				BA6508A5186B06D60074D87A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA6508A6186B06D60074D87A /* Build configuration list for PBXNativeTarget "Ex6Tests" */ = {
 			isa = XCConfigurationList;
@@ -558,6 +560,7 @@
 				BA6508A8186B06D60074D87A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
